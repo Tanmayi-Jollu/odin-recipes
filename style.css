@@ -23,3 +23,14 @@ img {
     padding: 20px 30px;
     border: 10px;
 }
+
+p, li {
+    font-size: 20px;
+}
+
+.recipe-list {
+    border: 2px solid black;
+    padding: 15px;
+    padding-left: 28px;
+    margin-left: 5px;
+}
