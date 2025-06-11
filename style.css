@@ -12,5 +12,14 @@ h1 {
 img {
     display: block;
     margin: auto;
-    width: 50%;
+}
+
+.back-home {
+    padding: 10px;
+    font-size: larger;
+}
+
+.recipe-details {
+    padding: 20px 30px;
+    border: 10px;
 }
